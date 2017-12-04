@@ -1,6 +1,6 @@
 Assignment: PLTW 2.1.4
 Date: (date submitted)
-Team Members: ____, ______, ... (include first name and last name for each member)
+Team Members: Priyanka Nagasamudra, ______, ... (include first name and last name for each member)
 
 Description:
 
@@ -24,4 +24,11 @@ Conclusion Questions
 
 Answer # 36, 37 and conclusion questions here
  36. A navigation drawer is a good fit for the college app as it helps organize all the information it contains, making it user friendly. It allows users to easily navigate to the family member page and their profile. 
+ 
+ 37.  https://medium.com/@janishar.ali/navigation-drawer-android-example-8dfe38c66f59
+ This link gives a step by step explanation on how to create a navigation drawer. He explains the basic layout and the code as well.
+ http://blog.teamtreehouse.com/add-navigation-drawer-android
+ This link gives a basic layout of a navigation bar and also teaches viewers how to customize their navigation bar. It shows details that can be changed, different transistions, layouts, actions and more.
+ http://www.tutecentral.com/android-custom-navigation-drawer/
+ This link also gives different types of actions that could be done using a navigation drawer. It allows developers to choose transistions and how to make the navigation drawer more user friendly. 
 (Answer these as the last part of your README.txt file)
