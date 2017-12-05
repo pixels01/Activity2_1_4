@@ -4,7 +4,7 @@ Team Members: Priyanka Nagasamudra, ______, ... (include first name and last nam
 
 Description:
 
-This assignment was a lesson in _________ (please summarize what you learned based on topics covered.  Please include a summary of the presentation on variable scope. Also, look up
+This assignment was a lesson in app navigation. It teaches students about the Model – View – Presenter pattern. The model layer defines what data should be displayed or acted upon. The view layer simply displays the data that is defined in the model layer. The presenter layer took (please summarize what you learned based on topics covered.  Please include a summary of the presentation on variable scope. Also, look up
 The "Model View Presenter" design pattern and summarize as part of this section.  Compare
 MVP to MVC. (NOTE: Friday's quiz include questions on variable scope in Java)
 
