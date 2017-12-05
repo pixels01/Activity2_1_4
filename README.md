@@ -4,10 +4,7 @@ Team Members: Priyanka Nagasamudra, ______, ... (include first name and last nam
 
 Description:
 
-This assignment was a lesson in app navigation. It teaches students about the Model – View – Presenter pattern. The model layer defines what data should be displayed or acted upon. The view layer simply displays the data that is defined in the model layer. The presenter layer took (please summarize what you learned based on topics covered.  Please include a summary of the presentation on variable scope. Also, look up
-The "Model View Presenter" design pattern and summarize as part of this section.  Compare
-MVP to MVC. (NOTE: Friday's quiz include questions on variable scope in Java)
-
+This assignment was a lesson in app navigation. It teaches students about the Model – View – Presenter pattern. The model layer defines what data should be displayed or acted upon. The view layer simply displays the data that is defined in the model layer. The presenter layer takes the data in the model layer and formats it so it can be displayed in the view layer. In 2.1.4, students took these into consideration in order to code the navigation drawer for the appp. In the Model - View - Controller, the model layer also manages the data, logic and rules of the application. The view layer also has the same function: display the data to the user. the contoller layer accepts the inputs from the user and converts it to commands for either the model or the view layer. The presenter layer binds the view layer to the model because if the view layer is not delegated to the presenter layer, it never gets called. In MVC, the view does not directly bind to the model layer and does not have any logic behind it. In a MVP the Presenter communicates dirrectly with the View to tell it what to do. The presenter is the middle man between the model and view layer. In MVC, both view and controller control properties of the model. There is no communication between the view and control. The MVP is derived from the MVC. 
 
 Team member roles in assignment: (Who did what)
 
@@ -17,6 +14,8 @@ Key Lessons learned:
 
 Summarize what you think important teaching points from the lesson were.  Be sure to
 include something from each part (I-V)
+
+Part 1:
 
 
 
